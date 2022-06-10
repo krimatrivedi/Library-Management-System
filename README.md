@@ -13,5 +13,5 @@ It is a library management system where user can add,delete,update and retrieve 
 
 ### Run steps:
     python manage.py makemigrations
-####   python manage.py migrate
-####    python manage.py runserver
+    python manage.py migrate
+    python manage.py runserver
